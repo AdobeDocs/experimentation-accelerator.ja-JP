@@ -16,7 +16,7 @@ ht-degree: 94%
 
 # Journey Optimizer 実験アクセラレーターへのアクセス
 
-[実験を作成および設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)し、キャンペーンまたはジャーニーをプロファイルに送信した後、**[!UICONTROL Journey Optimizer 実験アクセラレーター]**&#x200B;にアクセスして、実験のパフォーマンスをより深く掘り下げることができます。
+[実験を作成および設定](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)し、キャンペーンまたはジャーニーをプロファイルに送信した後、**[!UICONTROL Journey Optimizer 実験アクセラレーター]**&#x200B;にアクセスして、実験のパフォーマンスをより深く掘り下げることができます。
 
 **[!UICONTROL Journey Optimizer 実験アクセラレーター]**&#x200B;には、[!UICONTROL 実験]ドロップダウンの左側のメニューから、またはアプリスイッチャーからアクセスできます。Target ライセンスのみを持つユーザーは、アプリスイッチャーを通じてのみアクセスできます。
 
@@ -55,7 +55,7 @@ ht-degree: 94%
 
 1. ユーザーの名前、メールアドレスを入力するか、リストから選択して、「**[!UICONTROL 保存]**」をクリックします。
 
-   ユーザーをまだ作成していない場合は、[&#x200B; このドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/access-control/abac/permissions-ui/users) を参照してください。
+   ユーザーをまだ作成していない場合は、[ このドキュメント ](https://experienceleague.adobe.com/ja/docs/experience-platform/access-control/abac/permissions-ui/users) を参照してください。
 
 ユーザーは、インスタンスにアクセスする手順が記載されたメールを受信します。
 
