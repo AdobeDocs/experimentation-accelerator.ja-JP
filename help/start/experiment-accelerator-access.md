@@ -16,7 +16,7 @@ ht-degree: 94%
 
 # Journey Optimizer 実験アクセラレーターへのアクセス
 
-[実験を作成および設定](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)し、キャンペーンまたはジャーニーをプロファイルに送信した後、**[!UICONTROL Journey Optimizer 実験アクセラレーター]**&#x200B;にアクセスして、実験のパフォーマンスをより深く掘り下げることができます。
+[実験を作成および設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-experiment/content-experiment)し、キャンペーンまたはジャーニーをプロファイルに送信した後、**[!UICONTROL Journey Optimizer 実験アクセラレーター]**&#x200B;にアクセスして、実験のパフォーマンスをより深く掘り下げることができます。
 
 **[!UICONTROL Journey Optimizer 実験アクセラレーター]**&#x200B;には、[!UICONTROL 実験]ドロップダウンの左側のメニューから、またはアプリスイッチャーからアクセスできます。Target ライセンスのみを持つユーザーは、アプリスイッチャーを通じてのみアクセスできます。
 
