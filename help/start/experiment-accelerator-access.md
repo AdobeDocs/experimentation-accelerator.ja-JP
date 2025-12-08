@@ -55,7 +55,7 @@ ht-degree: 94%
 
 1. ユーザーの名前、メールアドレスを入力するか、リストから選択して、「**[!UICONTROL 保存]**」をクリックします。
 
-   ユーザーをまだ作成していない場合は、[ このドキュメント ](https://experienceleague.adobe.com/ja/docs/experience-platform/access-control/abac/permissions-ui/users) を参照してください。
+   ユーザーをまだ作成していない場合は、[&#x200B; このドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/access-control/abac/permissions-ui/users) を参照してください。
 
 ユーザーは、インスタンスにアクセスする手順が記載されたメールを受信します。
 
