@@ -8,9 +8,9 @@ role: User
 level: Beginner
 keywords: コンテンツ, 実験, 複数, オーディエンス, 処理
 source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1096'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -118,7 +118,7 @@ ht-degree: 99%
 
 実験の機会を生成するには、まず、[仮説と処理の詳細](#set-up)を確認する必要があります。
 
-1. 提案されたオポチュニティを参照し、「**[!UICONTROL オポチュニティを表示]**」をクリックします。
+1. 提案された機会を参照し、「**[!UICONTROL 機会を表示]**」をクリックします。
 
    ![](assets/experiment-monitor-opportunities.png)
 

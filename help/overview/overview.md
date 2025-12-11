@@ -8,9 +8,9 @@ role: User
 level: Beginner
 keywords: コンテンツ, 実験, 複数, オーディエンス, 処理
 source-git-commit: 83cc6dccc20323efc96a09ee1bfda0aa38e52009
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 94%
 
 <table style="table-layout:fixed">
 <tr style="border: 0; text-align: center;">
-<td><a href="../start/experiment-accelerator-access.md"><img width="70%" alt="はじめに" src="../assets/do-not-localize/a-b-test.png"></a><br/><a href="../start/experiment-accelerator-access.md">Journey Optimizer 実験アクセラレーターの基本を学ぶ</a></td>
+<td><a href="../start/experiment-accelerator-access.md"><img width="70%" alt="基本を学ぶ" src="../assets/do-not-localize/a-b-test.png"></a><br/><a href="../start/experiment-accelerator-access.md">Journey Optimizer 実験アクセラレーターの基本を学ぶ</a></td>
 <td><a href="../start/experiment-accelerator-best-practices.md"><img width="70%" alt="ベストプラクティス" src="../assets/do-not-localize/best-practices.png"></a><br/><a href="../start/experiment-accelerator-best-practices.md">Journey Optimizer 実験アクセラレーターのベストプラクティス</a></td>
-<td><a href="../track/experiment-accelerator-monitor.md"><img width="70%" alt="track" src="../assets/do-not-localize/track.png"></a></br><a href="../track/experiment-accelerator-monitor.md">実験のパフォーマンスの追跡と監視</a></td>
+<td><a href="../track/experiment-accelerator-monitor.md"><img width="70%" alt="トラック" src="../assets/do-not-localize/track.png"></a></br><a href="../track/experiment-accelerator-monitor.md">実験のパフォーマンスの追跡と監視</a></td>
 </tr>
 </table>

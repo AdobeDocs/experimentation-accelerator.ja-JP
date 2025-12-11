@@ -8,9 +8,9 @@ role: User
 level: Beginner
 keywords: コンテンツ, 実験, 複数, オーディエンス, 処理
 source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '348'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

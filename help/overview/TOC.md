@@ -1,11 +1,11 @@
 ---
 user-guide-title: 実験アクセラレーター
-breadcrumb-title: 実験アクセラレータ
-user-guide-description: 実験アクセラレーターを使用して実験を追跡および監視
+breadcrumb-title: 実験アクセラレーター
+user-guide-description: 実験アクセラレーターを使用した実験の追跡と監視
 source-git-commit: 83cc6dccc20323efc96a09ee1bfda0aa38e52009
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '39'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 

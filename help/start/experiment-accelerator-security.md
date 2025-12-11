@@ -8,9 +8,9 @@ role: User
 level: Beginner
 keywords: コンテンツ, 実験, 複数, オーディエンス, 処理
 source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '439'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 95%
 
 ## アドビのモデルや AI はブランドのユーザーエクスペリエンスを自動的に変更しますか？
 
-いいえ。**Journey Optimizer Experimentation Accelerator** は、変更対象と変更方法に関する推奨事項のみを作成します。 Journey Optimizer や Target を使用してエクスペリエンスを変更する権限を持つユーザーのみが、これらのレコメンデーションに基づいてアクションを実行できます。すべてのレコメンデーションは、プッシュする前に確認および編集できます。
+いいえ。**Journey Optimizer 実験アクセラレーター**&#x200B;は、変更対象とその変更方法に関してのみレコメンデーションを行います。Journey Optimizer や Target を使用してエクスペリエンスを変更する権限を持つユーザーのみが、これらのレコメンデーションに基づいてアクションを実行できます。すべてのレコメンデーションは、プッシュする前に確認および編集できます。
 
 ## データやシステムの安定性にリスクはありますか？
 
