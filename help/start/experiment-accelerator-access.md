@@ -7,7 +7,7 @@ topic: Content Management
 role: User
 level: Beginner
 keywords: コンテンツ, 実験, 複数, オーディエンス, 処理
-source-git-commit: 4f30411591ab3bec4b749cfb58f437ddb3474ffa
+source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
 workflow-type: tm+mt
 source-wordcount: '507'
 ht-degree: 64%
@@ -104,11 +104,13 @@ ht-degree: 64%
 +++
 
 
-<!--table style="table-layout:fixed"><tr style="border: 0;">
+<!--
+table style="table-layout:fixed"><tr style="border: 0;">
 <td><img alt="Overview" href="experiment-accelerator-overview.md" src="assets/do-not-localize/experiments-2.jpeg">
 <div align="center"><p><strong><a href="experiment-accelerator-overview.md">Overview</a></strong></p></div></td>
 <td><img alt="Experiments" href="experiment-accelerator-monitor.md" src="assets/do-not-localize/experiment-overview.jpeg">
 <div align="center"><p><strong><a href="experiment-accelerator-monitor.md">Experiments</a></strong></p></div></td>
 <td><img alt="Metrics" href="experiment-accelerator-metrics.md" src="assets/do-not-localize/experiment-metrics.png">
 <div align="center"><p><strong><a href="experiment-accelerator-metrics.md">Metrics</a></strong></p></div></td>
-</tr></table-->
+</tr></table
+-->
