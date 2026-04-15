@@ -8,9 +8,9 @@ role: User
 level: Beginner
 keywords: コンテンツ, 実験, 複数, オーディエンス, 処理
 source-git-commit: 020ed6c652c66ed78789a5a90dfc8c8dece624a9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '507'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 64%
 * **[!UICONTROL 実験を表示]**
 * **[!UICONTROL 実験メタデータを管理]**
 
-+++ Adobe Experience PlatformまたはAdobe ジャーニーオプティマイザーライセンスで実験に関連する権限を割り当てる方法について説明します
++++ Adobe Experience Platform または Adobe Journey Optimizer ライセンスを使用して、実験関連の権限を割り当てる方法について説明します
 
 1. **[!DNL Permissions]** 製品で、「**[!UICONTROL 役割]**」タブに移動し、目的の「**[!UICONTROL 役割]**」を選択します。
 
@@ -63,43 +63,43 @@ ht-degree: 64%
 
 </br>
 
-+++ Adobe Target ライセンスで実験に関連する権限を割り当てる方法について説明します
++++ Adobe Target ライセンスを使用して、実験関連の権限を割り当てる方法について説明します
 
-1. **[Admin Console](http://adminconsole.adobe.com/)**&#x200B;を開きます。
+1. **[Admin Console](http://adminconsole.adobe.com/)** を開きます。
 
-1. **[!UICONTROL 製品]**&#x200B;で、**[!UICONTROL Adobe Experience Platform]**&#x200B;を選択します。
+1. **[!UICONTROL 製品]**&#x200B;で、「**[!UICONTROL Adobe Experience Platform]**」を選択します。
 
 1. 「**[!UICONTROL 新規プロファイル]**」をクリックします。
 
    ![](assets/permission-target.png)
 
-1. プロファイルに&#x200B;**[!UICONTROL 名前]**&#x200B;と&#x200B;**[!UICONTROL 説明]**&#x200B;を入力し、**[!UICONTROL 保存]**&#x200B;をクリックします。
+1. プロファイルの&#x200B;**[!UICONTROL 名前]**&#x200B;と&#x200B;**[!UICONTROL 説明]**&#x200B;を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
-1. 新しく作成した&#x200B;**[!UICONTROL プロファイル]**&#x200B;を開き、**[!UICONTROL 権限]** タブに移動します。
+1. 新しく作成した&#x200B;**[!UICONTROL プロファイル]**&#x200B;を開き、「**[!UICONTROL 権限]**」タブに移動します。
 
-1. **[!UICONTROL experimentation-accelerator]**&#x200B;権限の横にある![](assets/do-not-localize/Smock_Edit_18_N.svg)をクリックします。
+1. **[!UICONTROL experimentation-accelerator]** 権限の横にある ![](assets/do-not-localize/Smock_Edit_18_N.svg) をクリックします。
 
    ![](assets/permission-target-1.png)
 
-1. **[!UICONTROL 実験の表示]**&#x200B;や&#x200B;**[!UICONTROL 実験メタデータの管理]**&#x200B;など、このプロファイルに必要な権限を追加し、**[!UICONTROL 保存]**&#x200B;をクリックします。
+1. **[!UICONTROL 実験を表示]**&#x200B;や&#x200B;**[!UICONTROL 実験メタデータを管理]**&#x200B;など、このプロファイルに必要な権限を追加し、「**[!UICONTROL 保存]**」をクリックします。
 
    >[!TIP]
    >
-   > 利用者が異なるアクセスレベルを必要とする場合は、個別のプロファイルを作成します。 例えば、**[!UICONTROL 実験を表示]**&#x200B;のみを使用する&#x200B;**[!UICONTROL Experimentation Accelerator ビューア]** プロファイルと、**[!UICONTROL 実験を表示]**&#x200B;および&#x200B;**[!UICONTROL 実験メタデータを管理]**&#x200B;の両方を使用する&#x200B;**[!UICONTROL Experimentation Accelerator エディター]** プロファイルを作成します。
+   > ユーザーが異なるアクセスレベルを必要とする場合は、個別のプロファイルを作成します。例えば、**[!UICONTROL 実験を表示]**&#x200B;のみを使用する **[!UICONTROL Experimentation Accelerator ビューア]**&#x200B;プロファイルと、**[!UICONTROL 実験を表示]**&#x200B;および&#x200B;**[!UICONTROL 実験メタデータを管理]**&#x200B;の両方を使用する **[!UICONTROL Experimentation Accelerator エディター]**&#x200B;プロファイルを作成します。
 
    ![](assets/permission-target-2.png)
 
-1. 「**[!UICONTROL 権限]**」タブから、**[!UICONTROL サンドボックス]**&#x200B;を選択します。
+1. 「**[!UICONTROL 権限]**」タブから、「**[!UICONTROL サンドボックス]**」を選択します。
 
-1. ユーザーがJourney Optimizer Experimentation Acceleratorを使用できるサンドボックスを追加し、**[!UICONTROL 保存]**&#x200B;をクリックします。
+1. ユーザーが Journey Optimizer Experimentation Accelerator を使用できるサンドボックスを追加し、「**[!UICONTROL 保存]**」をクリックします。
 
 1. 「**[!UICONTROL ユーザー]**」タブを開き、「**[!UICONTROL ユーザーを追加]**」をクリックします。
 
    ![](assets/permission-target-3.png)
 
-1. このアクセス権を受け取るユーザーを追加し、**[!UICONTROL 保存]**&#x200B;をクリックします。
+1. このアクセス権を受け取るユーザーを追加し、「**[!UICONTROL 保存]**」をクリックします。
 
-このプロファイルに追加されたユーザーは、アプリスイッチャーからJourney Optimizer Experimentation Acceleratorにアクセスできるようになりました。
+このプロファイルに追加されたユーザーは、アプリスイッチャーから Journey Optimizer Experimentation Accelerator にアクセスできるようになりました。
 
 +++
 
