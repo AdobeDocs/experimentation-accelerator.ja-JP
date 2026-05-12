@@ -7,29 +7,36 @@ topic: Content Management
 role: User
 level: Beginner
 keywords: コンテンツ, 実験, 複数, オーディエンス, 処理
-source-git-commit: c52010f196f46d234066fd34ae8e9c0be7d2148b
-workflow-type: ht
-source-wordcount: '1096'
+TQID: https://experienceleague.adobe.com/IYG2Jag2XtctyPaYmQfhdMm0Ac5tEg7EA7gOw7GzUk4
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: b3538224-471e-4c63-a444-9b19d89ae29cid: b49ca41f-eb7a-4f4b-abeb-a97c06fd0c04id: d556b755-390a-43f0-be32-a08cf6236126id: d998adac-2f81-400b-a669-d07bb196e4ebid: dc22c819-3f29-4e91-8b7d-5c6719831141
+subfeature_v2: id: fb9a80eb-bebc-492f-a0e9-584595621ebb
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bcc5edb5-84c3-4940-9f84-ed88b6c16274id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 659a4723ac8b7cbaf3ea06c34107bf876612ccb4
+workflow-type: tm+mt
+source-wordcount: 1127
 ht-degree: 100%
 
 ---
 
 # 実行の追跡 {#monitor}
 
-「**[!UICONTROL 実験]**」タブでは、Adobe Journey Optimizer と Adobe Target のテストのトラッキングと分析が一元化されます。すべての実験を表示し、KPI を確認し、フィルタリングまたは検索して特定のテストを見つけることができます。
+「**[!UICONTROL 実験]**」タブでは、Adobe Journey Optimizer と Adobe Target のテストのトラッキングと分析が一元化されます。 すべての実験を表示し、KPI を確認し、フィルタリングまたは検索して特定のテストを見つけることができます。
 
 ## ダッシュボード {#dashboard}
 
-「実験」タブにアクセスすると、Journey Optimizer と Adobe Target の使用可能なすべての実験が統合ビューにリストされます。これにより、両方のプラットフォームをまたいで実験を 1 か所ですばやく確認および比較できます。
+「実験」タブにアクセスすると、Journey Optimizer と Adobe Target の使用可能なすべての実験が統合ビューにリストされます。 これにより、両方のプラットフォームをまたいで実験を 1 か所ですばやく確認および比較できます。
 実験リストには、以下が含まれます。
 
 * キャンペーンまたはジャーニーのいずれかで作成された Journey Optimizer 実験。
 
-* 同じ IMS 組織にリンクされた Journey Optimizer 実稼動デフォルトサンドボックスで使用可能な Adobe Target 実験。
+* 同じ IMS 組織にリンクされた Journey Optimizer 本番稼働デフォルトサンドボックスで使用可能な Adobe Target 実験。
 
 「KPI」セクションには、作成された実験の合計数や現在処理中の実験の数を含む主要指標が表示され、全体的な実験アクティビティのスナップショットが示されます。
 
-「![](assets/do-not-localize/Smock_Filter_18_N.svg)」をクリックしてフィルターにアクセスします。これにより、**[!UICONTROL タイプ]**、**[!UICONTROL スター付き]**、**[!UICONTROL ステータス]**、**[!UICONTROL ソース]**&#x200B;によるフィルタリングなどのコンテキスト固有のオプションを使用できます。例えば、Journey Optimizer からのアクティブな実験のみを表示するようにフィルタリングできます。
+「![](assets/do-not-localize/Smock_Filter_18_N.svg)」をクリックしてフィルターにアクセスします。これにより、**[!UICONTROL タイプ]**、**[!UICONTROL スター付き]**、**[!UICONTROL ステータス]**、**[!UICONTROL ソース]**&#x200B;によるフィルタリングなどのコンテキスト固有のオプションを使用できます。 例えば、Journey Optimizer からのアクティブな実験のみを表示するようにフィルタリングできます。
 
 または、検索バーに実験の名前を入力して、実験をすばやく見つけることもできます。
 
@@ -58,7 +65,7 @@ ht-degree: 100%
 
 ### 設定 {#set-up}
 
-**[!UICONTROL 仮説]**&#x200B;では、テストされる予定の変更をキャプチャし、プライマリ指標への予想される影響を文書化します。明確な&#x200B;**[!UICONTROL 仮説]**&#x200B;を定義すると、各実験に測定可能な目的が確保され、結果を評価し、変更が有意義な改善につながるかどうかを判断しやすくなります。
+**[!UICONTROL 仮説]**&#x200B;では、テストされる予定の変更をキャプチャし、プライマリ指標への予想される影響を文書化します。 明確な&#x200B;**[!UICONTROL 仮説]**&#x200B;を定義すると、各実験に測定可能な目的が確保され、結果を評価し、変更が有意義な改善につながるかどうかを判断しやすくなります。
 
 [実験のインサイト](#insights)を生成するには、仮説と処理の詳細および統計的優位差を確認する必要があります。
 
@@ -86,7 +93,7 @@ ht-degree: 100%
 
 ![](assets/experiment-monitor-details.png)
 
-**[!UICONTROL 実験効果]**&#x200B;ウィジェットでは、実験がターゲットオーディエンスセグメントに与えた影響を詳細に確認できます。これは、エンゲージメントと行動を評価するのに役立つ次の主要業績評価指標を示します。
+**[!UICONTROL 実験効果]**&#x200B;ウィジェットでは、実験がターゲットオーディエンスセグメントに与えた影響を詳細に確認できます。 これは、エンゲージメントと行動を評価するのに役立つ次の主要業績評価指標を示します。
 
 * 実験の作成時に設定された内容に応じて、Journey Optimizer からの&#x200B;**[!UICONTROL 成功指標]**&#x200B;または Adobe Target からの&#x200B;**[!UICONTROL プライマリ指標]**。
 
@@ -122,7 +129,7 @@ ht-degree: 100%
 
    ![](assets/experiment-monitor-opportunities.png)
 
-1. 機会を選択すると、**機会の詳細**&#x200B;ウィンドウが開き、Journey Optimizer 実験アクセラレーターにより提案された特定の処理やバリエーションの概要が表示されます。この表示には、以下が含まれます。
+1. 機会を選択すると、**機会の詳細**&#x200B;ウィンドウが開き、Journey Optimizer 実験アクセラレーターにより提案された特定の処理やバリエーションの概要が表示されます。 この表示には、以下が含まれます。
 
    * **[!UICONTROL 仮説]**：提案された処理の予想される結果を説明する AI 生成の仮説。
 
@@ -157,7 +164,7 @@ ht-degree: 100%
 
 ![](assets/experiment-monitor-results.png)
 
-**[!UICONTROL 結果]**&#x200B;テーブルには、実験内の各処理の詳細なパフォーマンスの分類が表示されます。これらのインジケーターは、有効性、ユーザーエンゲージメント、主要なビジネス成果への全体的な影響を評価するのに役立ちます。
+**[!UICONTROL 結果]**&#x200B;テーブルには、実験内の各処理の詳細なパフォーマンスの分類が表示されます。 これらのインジケーターは、有効性、ユーザーエンゲージメント、主要なビジネス成果への全体的な影響を評価するのに役立ちます。
 
 * **[!UICONTROL 場所]**：パフォーマンスに基づく処理のランキング位置で、他の処理との比較を示します。
 
@@ -167,7 +174,7 @@ ht-degree: 100%
 
 * **[!UICONTROL 上昇率]**：ベースラインに対する特定の処理のコンバージョン率の向上率を測定します。
 
-* **[!UICONTROL 信頼性]**：ある処理がベースライン処理と同じであることを示す証拠。[詳細情報](http://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
+* **[!UICONTROL 信頼性]**：ある処理がベースライン処理と同じであることを示す証拠。 [詳細情報](http://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/content-experiment/technotes/experiment-calculations)
 
 * **[!UICONTROL コンバージョン率]**：処理を確認した後に目的のアクション（例：購入、新規登録）を完了したプロファイルの割合。
 
@@ -177,7 +184,7 @@ ht-degree: 100%
 >
 >実験のインサイト機能は、テキストベースの変更を含む実験に制限されています。
 
-**[!UICONTROL 実験のインサイト]**&#x200B;は、この実験から派生した AI 生成の学習結果です。これらのインサイトは、実験が統計的優位差に達すると使用可能になり、実験の成功に貢献した内容を文脈的に理解できます。これらは、コントロールとは異なる、結果に影響を与えた可能性のある、勝利した処理に存在する主要な属性をハイライト表示します。
+**[!UICONTROL 実験のインサイト]**&#x200B;は、この実験から派生した AI 生成の学習結果です。 これらのインサイトは、実験が統計的優位差に達すると使用可能になり、実験の成功に貢献した内容を文脈的に理解できます。 これらは、コントロールとは異なる、結果に影響を与えた可能性のある、勝利した処理に存在する主要な属性をハイライト表示します。
 
 実験のインサイトを生成するには、まず[仮説と処理の詳細](#set-up)および到達すべき統計的優位差を確認する必要があります。
 
