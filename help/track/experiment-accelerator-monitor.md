@@ -26,9 +26,9 @@ topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: c07dc7f896f9c65980339f4a7fc94123fa8afe71
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 1367
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -38,8 +38,8 @@ ht-degree: 79%
 
 ## ダッシュボード {#dashboard}
 
-「実験」タブにアクセスすると、Journey OptimizerとAdobe Targetから利用可能なすべての実験が統合ビューに一覧表示されます。これにより、両方のプラットフォームの実験を1か所ですばやくレビューし、比較することができます。
-実験リストには以下が含まれます。
+「実験」タブにアクセスすると、Journey Optimizer と Adobe Target の使用可能なすべての実験が統合ビューにリストされます。これにより、両方のプラットフォームをまたいで実験を 1 か所ですばやく確認および比較できます。
+実験リストには、以下が含まれます。
 
 * キャンペーンまたはジャーニーのいずれかで作成された Journey Optimizer 実験。
 
@@ -79,35 +79,35 @@ ht-degree: 79%
 
 >[!AVAILABILITY]
 >
->**[!UICONTROL 実験メタデータの管理]**&#x200B;権限を持つユーザーのみが、プライマリ指標を変更できます。
+>**[!UICONTROL 実験メタデータを管理]**&#x200B;権限を持つユーザーのみが、プライマリ指標を変更できます。
 
-**[!DNL Adobe Target]**&#x200B;または&#x200B;**[!DNL Adobe Journey Optimizer]**&#x200B;で作成された実験のレポートソースとして&#x200B;**[!DNL Customer Journey Analytics]**&#x200B;または&#x200B;**[!DNL Adobe Analytics]**&#x200B;を使用するチームには、主な指標を変更することが適用されます。
+プライマリ指標の変更は、**[!DNL Adobe Target]** または **[!DNL Adobe Journey Optimizer]** で作成された実験のレポートソースとして **[!DNL Customer Journey Analytics]** または **[!DNL Adobe Analytics]** を使用するチームに適用されます。
 
 プライマリ指標を設定または変更する際は、次の点に注意してください。
 
-* 一度に1つの指標を読み込みます。 選択した内容はその実験の主要指標として保存されます。
+* 一度に 1 つの指標がインポートされます。選択は、その実験のプライマリ指標として保存されます。
 
-* 更新はJourney Optimizer Experimentation Acceleratorでのみ適用されます。 Adobe TargetやAdobe Journey Optimizerには書き戻されません。
+* アップデートは、Journey Optimizer Experimentation Accelerator にのみ適用されます。Adobe Target や Adobe Journey Optimizer には書き戻されません。
 
-* レポートソースとしてAdobe Targetのみを使用している場合、テストの公開後にプライマリ指標を変更することはできません。
+* 組織でレポートソースとして Adobe Target のみを使用する場合、テストの公開後にプライマリ指標を変更できません。
 
-既存の実験の主要指標を変更するには、次の手順に従います。
+既存の実験のプライマリ指標を変更するには、次の手順に従います。
 
-1. 実験から、**[!UICONTROL 割り当てられていない場合は]**&#x200B;プライマリ指標を選択し、変更したい場合は&#x200B;**[!UICONTROL 編集]**&#x200B;をクリックします。
-
-   ![](assets/primary-metric-1.png)
-
-1. この実験が&#x200B;**[!DNL Adobe Target]**&#x200B;または&#x200B;**[!DNL Adobe Journey Optimizer]**&#x200B;で作成されたときに設定されたレポートソースと一致する指標を選択します。
-
-   利用できる指標は、**[!DNL Adobe Target]**&#x200B;または&#x200B;**[!DNL Adobe Journey Optimizer]**&#x200B;で設定されたデータソースによって決まります。 例えば、**[!DNL Customer Journey Analytics]** （CJA）がTargetのレポートソースとして選択されている場合、読み込むことができるのはCJA指標のみです。 別のデータソースから指標に切り替えたり、プライマリ指標をネイティブ **[!DNL Adobe Target]**&#x200B;指標に変更したりすることはできません。
-
-1. 検索を使用して名前で指標を検索するか、フィルターを使用してアクティブな実験で既に使用されている指標を表示します。
+1. 実験から、割り当てられていない場合は「**[!UICONTROL プライマリ指標を選択]**」をクリックし、変更する場合は「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/primary-metric-1.png)
 
-1. 選択範囲を保存します。
+1. **[!DNL Adobe Target]** または **[!DNL Adobe Journey Optimizer]** でこの実験を作成した際に設定されたレポートソースに一致する指標を選択します。
 
-プライマリ指標を変更すると、以前に生成されたインサイトと機会が消去され、再生成されます。 再生中、次のメッセージが表示されます。
+   使用可能な指標は、**[!DNL Adobe Target]** または **[!DNL Adobe Journey Optimizer]** で設定されたデータソースによって決定されます。例えば、Target でレポートソースとして **[!DNL Customer Journey Analytics]**（CJA）を選択した場合、インポートできるのは CJA 指標のみです。別のデータソースから指標に切り替え、プライマリ指標をネイティブの **[!DNL Adobe Target]** 指標に変更できません。
+
+1. 検索を使用して名前別に指標を検索するか、フィルターを使用してアクティブな実験で既に使用されている指標を表示します。
+
+   ![](assets/primary-metric-1.png)
+
+1. 選択を保存します。
+
+プライマリ指標を変更した際、以前に生成したインサイトと機会はクリアおよび再生成されます。再生成中、次のメッセージが表示されます。
 
 `Opportunities are being regenerated based on the selected metric. Updates will appear soon.`
 

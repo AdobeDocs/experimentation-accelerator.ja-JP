@@ -10,9 +10,9 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experimentation-accelerator.ja-JP
 index: true
 source-git-commit: 03f1199f9e432e6c59765e683e733f6ee0a11835
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 69
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
