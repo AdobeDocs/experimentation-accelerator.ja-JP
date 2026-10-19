@@ -3,6 +3,7 @@ cloud: Experience Cloud
 solution: Journey Optimizer
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: "Journey Optimizer"
 usetq: true
 product: Journey Optimizer
 type: Documentation
@@ -10,12 +11,10 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experimentation-accelerator.ja-JP
 index: true
 source-git-commit: 03f1199f9e432e6c59765e683e733f6ee0a11835
-workflow-type: ht
-source-wordcount: 69
+workflow-type: tm+mt
+source-wordcount: '64'
 ht-degree: 100%
-
 ---
-
 
 # 内部使用のメタデータ
 
